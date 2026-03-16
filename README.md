@@ -39,6 +39,7 @@ The processed dataset will be generated in:
 
 output/
 
-Author
+## Author
 
 Patrick Hermann
+
